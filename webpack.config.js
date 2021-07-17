@@ -1,4 +1,4 @@
-const path = require("path");
+const path = require("path")
 module.exports = {
   // モジュールバンドルを行う起点となるファイルの指定
   // 指定できる値としては、ファイル名の文字列や、それを並べた配列やオブジェクト
@@ -31,4 +31,4 @@ module.exports = {
       },
     ],
   },
-};
+}
